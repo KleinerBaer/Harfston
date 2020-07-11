@@ -1,0 +1,7 @@
+C:\Users\hansk\source\repos\Card game\Memory\bin\Debug\Memory.exe.config
+C:\Users\hansk\source\repos\Card game\Memory\bin\Debug\Memory.exe
+C:\Users\hansk\source\repos\Card game\Memory\bin\Debug\Memory.pdb
+C:\Users\hansk\source\repos\Card game\Memory\obj\Debug\Harfston.csprojAssemblyReference.cache
+C:\Users\hansk\source\repos\Card game\Memory\obj\Debug\Harfston.csproj.CoreCompileInputs.cache
+C:\Users\hansk\source\repos\Card game\Memory\obj\Debug\Memory.exe
+C:\Users\hansk\source\repos\Card game\Memory\obj\Debug\Memory.pdb
